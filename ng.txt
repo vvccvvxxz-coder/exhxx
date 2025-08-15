@@ -1,1 +1,1 @@
-trojan://19d23daf-6962-4ff9-87d9-92c210251929@pl-full.privateip.net:443?type=tcp&headerType=none&security=tls&sni=cloudflare.sc-cdn.net
+trojan://19d23daf-6962-4ff9-87d9-92c210251929@pl-full.privateip.net:443?type=tcp&host=web.telegram.org&headerType=none&security=tls&sni=web.telegram.org#باقة تيلي • اودي 🔝 EXHXX
