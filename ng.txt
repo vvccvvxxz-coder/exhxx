@@ -1,1 +1,1 @@
-trojan://19d23daf-6962-4ff9-87d9-92c210251929@pl-full.privateip.net:443?type=tcp&host=web.telegram.org&headerType=none&security=tls&sni=web.telegram.org#باقة تيلي • اودي 🔝 EXHXX
+vless://7788d2c9-27a6-4039-a943-e41138954bde@app.snapchat.com:443?path=%2Fexhxx&security=tls&encryption=none&host=exhxx-681221849780.us-central1.run.app&type=ws&sni=exhxx-681221849780.us-central1.run.app#%40exhxx%20%F0%9F%8D%B7
